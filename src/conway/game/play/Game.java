@@ -1,4 +1,4 @@
-package main;
+package conway.game.play;
 
 import javax.swing.*; 
 import java.awt.event.*;	

@@ -1,4 +1,4 @@
-package main;
+package conway.game.play;
 
 import java.awt.event.MouseEvent;
 import java.awt.event.MouseListener;
