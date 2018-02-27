@@ -1,4 +1,4 @@
-# Game Of Life Java
+# conwaysgameoflife
 John Conway's Game of Life created in Java. John Conway's Game of Life follows some very basic rules but provides very interesting results.
 
 Read more about it here [here.](https://en.wikipedia.org/wiki/Conway's_Game_of_Life)
